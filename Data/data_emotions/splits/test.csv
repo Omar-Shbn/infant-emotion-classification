@@ -1,0 +1,19 @@
+resolved_path,image,label,label_norm,label_id
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A06M5-JTPC-5121.jpg,A06M5-JTPC-5121,Neutral,neutral,3
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A16F6-JTPC-7435.jpg,A16F6-JTPC-7435,Sad,sad,1
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A10F5-NONE-6184.jpg,A10F5-none-6184,Happy,happy,0
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A12F5-JTPWC-6505.jpg,A12F5-JTPWC-6505,Happy,happy,0
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A17F9-JTP-7651.jpg,A17F9-JTP-7651,Sad,sad,1
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A11F12-JTPWCFB-6340.jpg,A11F12-JTPWCFB-6340,Surprise,surprise,5
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A14M7-JTPWC-6897DI-.jpg,A14M7-JTPWC-6897,Disgust,disgust,4
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A03F7-JTPC-4351.jpg,A03F7-JTPC-4351,Neutral,neutral,3
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A18M7-JTPWC-7820.jpg,A18M7-JTPWC-7820,Happy,happy,0
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A05F7-JTP-4964DI-.jpg,A05F7-JTP-4964,Disgust,disgust,4
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A10F5-NONE-6181.jpg,A10F5-none-6181,Neutral,neutral,3
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A04M6-JTPC-4783.jpg,A04M6-JTPC-4783,Surprise,surprise,5
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A06M5-JTPC-5083.jpg,A06M5-JTPC-5083,Neutral,neutral,3
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A18M7-JTPWC-7891.jpg,A18M7-JTPWC-7891,Fear,fear,6
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A06M5-JTPC-5113.jpg,A06M5-JTPC-5113,Happy,happy,0
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A08M12-JTPC-5408.jpg,A08M12-JTPC-5408,Happy,happy,0
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A10F5-NONE-6218.jpg,A10F5-none-6218,Sad,sad,1
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A02F10-JTP-4281.jpg,A02F10-JTP-4281,Anger,anger,2

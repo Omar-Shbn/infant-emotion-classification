@@ -1,0 +1,18 @@
+resolved_path,image,label,label_norm,label_id
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A13M5-JTPWC-6625.jpg,A13M5-JTPWC-6625,Happy,happy,0
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A19F6-JTPC-8524.jpg,A19F6-JTPC-8524,Surprise,surprise,5
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A12F5-JTPWC-6452.jpg,A12F5-JTPWC-6452,Neutral,neutral,3
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A04M6-JTPC-4688.jpg,A04M6-JTPC-4688,Sad,sad,1
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A15M12-JTP-7144.jpg,A15M12-JTP-7144,Sad,sad,1
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A17F9-JTP-7652SA-SU-.jpg,A17F9-JTP-7652,Surprise,surprise,5
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A06M5-JTPC-5087.jpg,A06M5-JTPC-5087,Happy,happy,0
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A10F5-NONE-6242.jpg,A10F5-none-6242,Anger,anger,2
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A14M7-JTPWC-6851.jpg,A14M7-JTPWC-6851,Happy,happy,0
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A15M12-JTP-7146.jpg,A15M12-JTP-7146,Sad,sad,1
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A19F6-JTPC-8526.jpg,A19F6-JTPC-8526,Happy,happy,0
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A17F9-JTP-7645.jpg,A17F9-JTP-7645,Disgust,disgust,4
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A03F7-JTPC-4441.jpg,A03F7-JTPC-4441,Disgust,disgust,4
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A17F9-JTP-7591.jpg,A17F9-JTP-7591,Neutral,neutral,3
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A16F6-JTPC-7452.jpg,A16F6-JTPC-7452,Fear,fear,6
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A16F6-JTPC-7319.jpg,A16F6-JTPC-7319,Neutral,neutral,3
+C:\Users\ADMIN\Downloads\emotion classification\Data\images_renamed\A05F7-JTP-5030AF-.jpg,A05F7-JTP-5030,Fear,fear,6
